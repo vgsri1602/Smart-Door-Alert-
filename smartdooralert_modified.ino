@@ -2,12 +2,12 @@
 #include <FirebaseESP8266.h>
 
 // Wi-Fi credentials
-#define WIFI_SSID "vgsri_16"
-#define WIFI_PASSWORD "12345678"
+#define WIFI_SSID "WIFI NAME"
+#define WIFI_PASSWORD "WIFI PASSWORD"
 
 // Firebase credentials
-#define FIREBASE_HOST "smartdooralert-162176-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "nJPo5L88HKSAJivsHXiiZBa8Xcr0MDIVcLr3ku8"
+#define FIREBASE_HOST "HOST LINK"
+#define FIREBASE_AUTH "SECRET KEY"
 
 // Firebase objects
 FirebaseData firebaseData;
